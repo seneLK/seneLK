@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr Senal</h1><br>
 
-<div align="">
+<br><div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
@@ -51,4 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senelk&show_icons=true&locale=en" alt="senelk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senelk&" alt="senelk" /></p>
-
